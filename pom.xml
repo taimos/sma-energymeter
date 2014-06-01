@@ -7,7 +7,7 @@
 	</parent>
 	<groupId>de.taimos.semi</groupId>
 	<artifactId>sma-energymeter</artifactId>
-	<version>0.2-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>SMA Energymeter Receiver</name>
 	<dependencies>
 		<dependency>
