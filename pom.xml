@@ -7,7 +7,7 @@
 	</parent>
 	<groupId>de.taimos.semi</groupId>
 	<artifactId>sma-energymeter</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>SMA Energymeter Receiver</name>
 	<dependencies>
 		<dependency>
@@ -26,7 +26,7 @@
 		<url>git://github.com/taimos/sma-energymeter.git</url>
 		<connection>scm:git:git://github.com/taimos/sma-energymeter.git</connection>
 		<developerConnection>scm:git:git@github.com:taimos/sma-energymeter.git</developerConnection>
-		<tag>v1.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<issueManagement>
 		<system>github</system>
